@@ -1,0 +1,115 @@
+{
+  "main": {
+    "name": "Pranav Kumar",
+    "occupation": "Software Engineer",
+    "description": " A Full stack Developer and computer vision enthusiast.",
+    "image": "Author.jpeg",
+    "bio": "I'm a software developer with experience in React, HTML, CSS, Computer vision and machine learning.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "pranavkumar7498@gmail.com",
+    "phone": "+91 8146799963",
+    "address": {
+      "street": "Dak Bangla Street-1",
+      "city": "Begusarai",
+      "state": "Bihar",
+      "zip": "851101",
+      "country": "India"
+     
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1znr5iHe3mxish-YMaxMq7qwPV4cvGGhH/view?usp=drivesdk",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/pranav.mishra.5492",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pranav-kumar-81575714a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/pmishra_ig/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/pranavkumar7498",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am constantly learning new things, those things include (React.js, Django, Express.js)",
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "degree": "Bachelor's in Electronics and Communication.",
+        "graduated": "August 2020",
+        "description": "Graduated."
+      }
+    ],
+    "work": [
+      {
+        "company": "Bosch India",
+        "title": "Software Engineer",
+        "years": "Jan 2020 - Present"
+       
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "85%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Data Structures",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Traffic Surveillance Using Computer Vision",
+        "category": "Deep Learning project based on computer vision.",    
+        "image": "dl.jpg",  
+        "url": "https://github.com/pranavkumar7498"
+      },
+      {
+        "title": "Jarvis",
+        "category": "Chat-bot (Python, AI)",
+        "image": "ml.jpg",
+        "url": "https://github.com/pranavkumar7498"
+      },
+      {
+        "title": "E-commerce Clone with React",
+        "category": "E-commerce website",        
+        "url": "https://github.com/pranavkumar7498",
+        "image": "store.png"
+      }
+    ]
+  }
+}
